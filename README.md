@@ -46,3 +46,5 @@
 [TODOLIST.md](./TODOLIST.md)
 
 [开篇.md](./开篇.md)
+
+[想法.md](./想法.md)
