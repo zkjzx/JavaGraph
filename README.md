@@ -15,6 +15,8 @@
 
 - ##### Java基础 - 面试题
 
+参考资料：https://www.cnblogs.com/ideal-20/p/11050146.html
+
 > 回顾完上面的Java基础知识点，还需要再深入研究一下Java的一些基础机制
 
 ##### Java基础 - 异常
